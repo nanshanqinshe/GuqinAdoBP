@@ -13,14 +13,14 @@
 
 这两个问题如何解决？
 开智前面有总结，戳这里练习咯：
-[知识型团队Git协作](Githubhttp://ishanshan.top/community/HbGitHubCooperate.html)
+[知识型团队Git协作](http://ishanshan.top/community/HbGitHubCooperate.html)
 
 有任务来练习：
 1. 建立团队命名规则；
 2. 学习并使用异步协作；
 3. 将原项目重新按git协作分类；
 
-重来虽然有点痛苦，但凤凰每次涅槃之后都更加绚丽。
+一起学习，一起来，边学边改。重来虽然有点痛苦，但凤凰每次涅槃之后都更加绚丽。
 
 
 还有一个知识练习问题：
